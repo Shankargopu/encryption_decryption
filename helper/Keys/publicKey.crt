@@ -1,0 +1,10 @@
+const publicKey=
+`
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCYw0rv0Px6xftxqrPcRSDdqvU6
+k/QiCrvcIc8Ns3M0r6pLSx0Lo0x9d0WCma54rT2bt8KK1vNJLsL9FKtbZi/YuaUB
+hiCBUcDSBOq9Isa53hM4o5+qs1GXWIHvj55cej6UMBZomOSKiq7cBZaM/w3Lntst
+S5Vas1zxw0xu4E3p8QIDAQAB
+-----END PUBLIC KEY-----
+`
+module.exports = publicKey
